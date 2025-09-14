@@ -20,17 +20,17 @@ const CONFIG = {
         limit: 8, // How many projects to display.
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
-          projects: ['gabrielrosinski/devops-practice',
-                     'gabrielrosinski/devops-course-project',
-                     'gabrielrosinski/devops-advanced-project',
-                     'gabrielrosinski/argocd-tasks',
-                     'gabrielrosinski/self-hosted-runner',
-                    'gabrielrosinski/ci-github-actions-demo'], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
+          projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
         },
       },
       manual: {
         // Properties for manually specifying projects
-        projects: [], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['gabrielrosinski/devops-practice',
+                     'gabrielrosinski/devops-course-project',
+                     'gabrielrosinski/devops-advanced-project',
+                     'gabrielrosinski/argocd-tasks',
+                     'gabrielrosinski/self-hosted-runner',
+                    'gabrielrosinski/ci-github-actions-demo'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
