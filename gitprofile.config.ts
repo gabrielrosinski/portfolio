@@ -106,7 +106,7 @@ const CONFIG = {
     'MySQL',
     'Bash scripting',
     'Git',
-    'CSS',
+    'CSS'
   ],
   experiences: [
     // {
@@ -115,7 +115,7 @@ const CONFIG = {
     //   from: 'September 2021',
     //   to: 'Present',
     //   companyLink: 'https://example.com',
-    // },
+    // }
   ],
   // educations: [
   //   {
