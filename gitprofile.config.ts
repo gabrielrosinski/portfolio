@@ -48,7 +48,7 @@ const CONFIG = {
       ],
     },
   },
-  seo: { title: 'Portfolio of Ariful Alam', description: '', imageURL: '' },
+  seo: { title: 'Portfolio of Gabriel Rosinski', description: '', imageURL: '' },
   social: {
     linkedin: 'gabrielrosinski',
     x: '',
