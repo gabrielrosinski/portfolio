@@ -124,7 +124,7 @@ const CONFIG = {
   //     from: '2015',
   //     to: '2019',
   //   },
-  // ]
+  // ],
   publications: [
     // {
     //   title: 'Publication Title',
